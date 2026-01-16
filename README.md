@@ -51,7 +51,19 @@ Create the HTML files using Thymeleaf templates for the application interface
 #### Task 11: Create the runnable jar file
 Create the runnable jar file. You will be submitting this file for peer evaluation.
 
-An exemplar of the application&#x27;s screens can be seen below.
+An exemplar of the application screens can be seen below.
 
-&lt;img src&#x3D;&quot;https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/ZR8rJHbtPGW_SUG-KWUfGQ/examplesofscreenshots.gif&quot;/&gt;
+<img width="1281" height="953" alt="final2" src="https://github.com/user-attachments/assets/bdfcc9aa-2afa-4ca9-b785-3927a99e6c58" />
+
+<img width="1381" height="981" alt="final1" src="https://github.com/user-attachments/assets/82f1a579-5c7d-43f2-ae04-883dbf879303" />
+
+
+
+
+
+
+
+
+
+
 
